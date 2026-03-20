@@ -2,7 +2,7 @@
 
 > **La vieja confiable... hasta que deja de serlo**
 
-Esta es una aplicación demo pedagógica que muestra cómo funciona la arquitectura en capas tradicional, sus ventajas y sus limitaciones principales.
+Esta es una aplicación demo que muestra cómo funciona la arquitectura en capas tradicional, sus ventajas y sus limitaciones principales.
 
 ---
 
